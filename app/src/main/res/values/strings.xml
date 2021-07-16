@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Demo DatabaseCRUD</string>
+    <string name="insert">insert</string>
+    <string name="edit">edit</string>
+    <string name="enter_data_to_be_inserted_here">enter data to be inserted here</string>
+</resources>
